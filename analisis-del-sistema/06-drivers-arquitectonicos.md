@@ -7,3 +7,4 @@
 | DA03 | El sistema debe proteger los datos de los usuarios y las operaciones de contratación. | AC04 - Seguridad | Puede influir en la autenticación, autorización y protección de los datos. |
 | DA04 | El sistema debe integrarse con una pasarela de pago externa mediante una API. | RC04 - Pasarela de pago | Condiciona la forma de comunicación e integración con servicios externos. |
 | DA05 | El sistema debe utilizar una API REST para la comunicación entre frontend y backend. | RC03 - API REST | Limita y define la forma de comunicación entre las partes principales del sistema. |
+| DA06 | El sistema debe permitir modificar funcionalidades sin afectar innecesariamente otros módulos. | AC05 - Mantenibilidad | Influye en la separación de responsabilidades, la modularidad y las dependencias internas. |
